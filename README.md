@@ -21,7 +21,6 @@ This repository contains a Power BI report analyzing data from Blinkit. The repo
 ## 🔥 Contributions
 Feel free to submit pull requests or suggest improvements!
 
-## 📩 Contact
-For queries, reach out via GitHub issues or connect on LinkedIn.
+
 
 
